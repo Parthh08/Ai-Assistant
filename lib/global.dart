@@ -4,5 +4,6 @@ import 'package:flutter/material.dart';
 
 Color appBarColor = const Color.fromARGB(255, 145, 205, 255);
 Color backgroundColor = const Color.fromARGB(255, 240, 248, 255);
+Color chatBackgroundColor = const Color(0xFFF5F7FA);
 
 const apiKey = 'AIzaSyCNKL6i4j9OqtFi1AZOCGn3ZDtuJC8Ou1Y';
