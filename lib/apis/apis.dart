@@ -10,7 +10,7 @@ class Apis {
 
   static init() {
     model = GenerativeModel(
-      model: 'gemini-1.5-flash-latest',
+      model: 'gemini-2.5-flash',
       apiKey: apiKey,
     );
     chat = model.startChat();

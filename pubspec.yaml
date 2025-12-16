@@ -54,8 +54,7 @@ dependencies:
 
   #for state management
   get: ^4.6.6
-  google_generative_ai: ^0.4.6
-  genai: ^0.0.1-dev.1
+  google_generative_ai: ^0.4.7
   image: ^4.5.2
 
 dev_dependencies:
